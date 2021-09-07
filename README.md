@@ -1,4 +1,4 @@
-## CMake Abseil Protobuf Example
+## CMake glfw and glade Example
 
 Minimal example of a project using glfw, glade and cmake.
 glfw is build from source from a git submodule and glade
